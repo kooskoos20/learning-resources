@@ -1,0 +1,285 @@
+{
+  "id": 1,
+  "area": "Frontend Developement",
+  "slug": "frontend-development",
+  "skillMap": [
+    {
+      "level": "Novice",
+      "skills": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "resources": [
+            {
+              "url": "https://www.codecademy.com/learn/learn-html"
+            },
+            {
+              "url": "https://www.w3schools.com/html/"
+            },
+            {
+              "url": "https://www.youtube.com/playlist?list=PL081AC329706B2953"
+            },
+            {
+              "url": "https://www.udemy.com/course/learn-html-for-beginners/"
+            },
+            {
+              "url": "https://www.youtube.com/playlist?list=PL9ooVrP1hQOGm8DQVFdKd4Ag3Enb53zPT"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "CSS",
+          "resources": [
+            {
+              "url": "https://www.codecademy.com/learn/learn-css"
+            },
+            {
+              "url": "https://www.w3schools.com/css/default.asp"
+            },
+            {
+              "url": "https://www.youtube.com/playlist?list=PLC1322B5A0180C946"
+            },
+            {
+              "url": "https://www.coursera.org/learn/introcss"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "javascript",
+          "resources": [
+            {
+              "url": "https://www.codecademy.com/learn/introduction-to-javascript"
+            },
+            {
+              "url": "https://www.w3schools.com/js/DEFAULT.asp"
+            },
+            {
+              "url": "https://www.udemy.com/course/javascript-basics-for-beginners/"
+            },
+            {
+              "url": "https://www.youtube.com/playlist?list=PL9ooVrP1hQOGoYVit61V7Y1uPzfnBvN86"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Building websites using HTML / CSS / JS",
+          "resources": [
+            {
+              "url": "https://www.udemy.com/course/build-website-scratch/"
+            },
+            {
+              "url": "https://www.coursera.org/learn/html-css-javascript-for-web-developers"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Responsive Design",
+          "resources": [
+            {
+              "url": "https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/"
+            },
+            {
+              "url": "https://www.coursera.org/specializations/web-design"
+            },
+            {
+              "url": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/"
+            },
+            {
+              "url": "https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/"
+            },
+            {
+              "url": "https://www.coursera.org/learn/bootstrap-4"
+            },
+            {
+              "url": "https://material-ui.com/getting-started/learn/"
+            },
+            {
+              "url": "https://getbootstrap.com/docs/4.0/getting-started/introduction/"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Browser Debugging/Testing Tools",
+          "resources": [
+            {
+              "url": "https://www.youtube.com/watch?v=H0XScE08hy8"
+            },
+            {
+              "url": "https://www.w3schools.com/js/js_debugging.asp"
+            },
+            {
+              "url": "https://www.udemy.com/course/javascript-debugging-crash-course/"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Single Page Applications vs Server Side Rendering",
+          "resources": [
+            {
+              "url": "https://www.udemy.com/course/server-side-rendering-with-react-and-redux/"
+            },
+            {
+              "url": "https://www.coursera.org/learn/front-end-react"
+            },
+            {
+              "url": "https://www.coursera.org/learn/single-page-web-apps-with-angularjs"
+            },
+            {
+              "url": "https://www.codecademy.com/learn/react-101"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Javascript concepts for async development - Closures, Promises",
+          "resources": [
+            {
+              "url": "https://www.udemy.com/course/understand-javascript/"
+            },
+            {
+              "url": "https://www.w3schools.com/js/js_callback.asp"
+            },
+            {
+              "url": "https://www.udemy.com/course/asynchronous-javascript-promises-callbacks-async-await/"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Understanding DOM / Manipulating DOM",
+          "resources": [
+            {
+              "url": "https://www.coursera.org/learn/javascript"
+            },
+            {
+              "url": "https://www.codecademy.com/learn/introduction-to-javascript"
+            },
+            {
+              "url": "https://www.w3schools.com/js/DEFAULT.asp"
+            },
+            {
+              "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Async JS and HTTP requests",
+          "resources": [
+            {
+              "url": "https://www.w3schools.com/js/DEFAULT.asp"
+            },
+            {
+              "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "Understanding Data Management with React / Vue",
+          "resources": [
+            {
+              "url": "https://reactjs.org/docs/faq-ajax.html"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=bYFYF2GnMy8"
+            },
+            {
+              "url": "https://www.freecodecamp.org/news/fetch-data-react/"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Integrating with backend on dev environments - Reverse Proxy / CORS / Port forwarding",
+          "resources": [
+            {
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=zoSJ3bNGPp0"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "Frontend testing frameworks",
+          "resources": [
+            {
+              "url": "https://medium.com/welldone-software/an-overview-of-javascript-testing-7ce7298b9870"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=dfnVAAw6PV4"
+            }
+          ]
+        },
+
+        {
+          "id": 14,
+          "name": "Mock servers",
+          "resources": [
+            {
+              "url": "https://www.javatpoint.com/postman-mock-servers"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=pAD11I3k9q0"
+            },
+            {
+              "url": "https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "Request headers and authentication",
+          "resources": [
+            {
+              "name": "Codecademy JavaScript tutorial",
+              "url": "https://www.codecademy.com/learn/introduction-to-javascript",
+              "description": "basic introductory tutorial"
+            },
+            {
+              "name": "JavaScript W3Schools",
+              "url": "https://www.w3schools.com/js/DEFAULT.asp",
+              "description": "basic introductory tutorial"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Intermediate",
+      "skills": [
+        {
+          "id": 16,
+          "name": "#",
+          "resources": [
+            {
+              "url": "#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Expert",
+      "skills": [
+        {
+          "id": 17,
+          "name": "#",
+          "resources": [
+            {
+              "url": "#"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
